@@ -21,4 +21,4 @@ sqlalchemy==2.0.21; python_version >= '3.7'
 sqlalchemy-serializer==1.4.1
 typing-extensions==4.8.0; python_version >= '3.8'
 werkzeug==2.3.7; python_version >= '3.8'
- export DATABASE_URI="postgresql://my_name:mWJbYScKjkgN611lKxFnWCvqdYufP3m7@dpg-ckbi2tmsmu8c73a1om20-a.oregon-postgres.render.com/bird_app_bk3y"
+ 
